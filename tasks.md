@@ -28,7 +28,7 @@
 | ↳ #43 | P1-01-01 | Rounds 1 & 2: annotation batches                                        | Done        | High     | 2026-05-27 | 2026-05-29 |      |
 | ↳ #44 | P1-01-02 | Round 3: 3rd annotation batch                                           | Done        | High     | 2026-06-01 | 2026-06-05 |      |
 | #37   | P1-02    | Mid-Missouri Data Collection                                            | In Progress | High     | 2026-05-27 | 2026-10-31 |      |
-| ↳ #45 | P1-02-01 | Round 1: Mid-Missouri farm collection (Airport, Jefferson City)         | Done        | High     | 2026-06-02 | 2026-06-02 |      |
+| ↳ #45 | P1-02-01 | Round 1: Mid-Missouri farm collection (Airport)                         | Done        | High     | 2026-06-02 | 2026-06-02 |      |
 | ↳ #46 | P1-02-02 | Round 2: Mid-Missouri farm collection (Airport, Jefferson City)         | Todo        | High     | 2026-06-08 | 2026-06-08 |      |
 | #54   | P1-03    | South Missouri Data Collection                                          | In Progress | High     | 2026-05-27 | 2026-10-31 |      |
 | ↳ #55 | P1-03-01 | Round 1: South Missouri farm collection                                 | Todo        | High     | 2026-06-10 | 2026-06-10 |      |
