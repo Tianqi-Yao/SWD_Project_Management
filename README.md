@@ -1,4 +1,4 @@
-# SWD Project Management
+# Research Project Management
 
 Research project management hub for PhD Bioengineering — Spotted Wing Drosophila (SWD) detection and precision agriculture.
 
@@ -13,16 +13,16 @@ This repository serves as the central tracking hub for all ongoing research proj
 | P1 | SWD Vision | High-resolution SWD detection pipeline (64MP model, classification, segmentation) |
 | P2 | IoT Paper | Field deployment at South Farm & Airport sites, IoT monitoring paper |
 | P3 | Prediction | Predictive system maintenance |
-| P4 | Robotics | Obstacle detection & vision-based navigation |
+| P4 | Farm-NG The Amiga Robotics | Obstacle detection & vision-based navigation |
 | P5 | 3DGS | 3D Gaussian Splatting data acquisition & HPC reconstruction |
-| P6 | DualCam | Dual-camera system evaluation (FOV, distance, feature detection) |
+| P6 | Corn Leafhopper | Dual-camera system evaluation (FOV, distance, feature detection) |
 
 ## Project Management
 
 Tasks are tracked as GitHub Issues and organized on the Kanban board:
 
 - **Kanban Board**: https://github.com/users/Tianqi-Yao/projects/2
-- **Issues**: https://github.com/Tianqi-Yao/SWD_Project_Management/issues
+- **Issues**: https://github.com/Tianqi-Yao/Research_Project_Management/issues
 
 Each issue follows the naming convention `[Px] Task Title` where `Px` is the project ID.
 
@@ -45,10 +45,8 @@ Each issue follows the naming convention `[Px] Task Title` where `Px` is the pro
 ## Repository Structure
 
 ```
-SWD_Project_Management/
-├── README.md          # This file
-└── docs/
-    └── workflow.md    # Task management workflow guide
+Research_Project_Management/
+└── README.md          # This file
 ```
 
 ## Contact
