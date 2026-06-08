@@ -62,10 +62,10 @@
 |-----|-------|-------------------------------------------------------------------------------------|-------------|----------|------------|------------|------|
 | #40 | P2-01 | Complete Latest SmartTrap Design                                                    | Done        | High     | 2026-05-15 | 2026-06-07 |      |
 | #41   | P2-02    | Design and Test Rpi Power Monitoring Module                                         | In Progress | High     | 2026-05-27 | 2026-06-07 |      |
-| ↳ #56 | P2-02-01 | Reliability Hardening                                                               | Done        | High     | 2026-06-08 | 2026-06-08 |      |
-| ↳ #57 | P2-02-02 | Battery Monitoring & Power Logic                                                    | Done        | High     | 2026-06-08 | 2026-06-08 |      |
-| ↳ #58 | P2-02-03 | Web & Storage Robustness                                                            | Done        | High     | 2026-06-08 | 2026-06-08 |      |
-| ↳ #59 | P2-02-04 | Code Quality & Documentation                                                        | Done        | High     | 2026-06-08 | 2026-06-08 |      |
+| ↳ #56 | P2-02-01 | Power Monitoring Module Upgrade                                                     | Done        | High     | 2026-06-08 | 2026-06-08 |      |
+| ↳ ~~#57~~ | ~~P2-02-02~~ | ~~Battery Monitoring & Power Logic~~                                            | ~~Done~~    | ~~High~~ | 2026-06-08 | 2026-06-08 |      |
+| ↳ ~~#58~~ | ~~P2-02-03~~ | ~~Web & Storage Robustness~~                                                    | ~~Done~~    | ~~High~~ | 2026-06-08 | 2026-06-08 |      |
+| ↳ ~~#59~~ | ~~P2-02-04~~ | ~~Code Quality & Documentation~~                                                | ~~Done~~    | ~~High~~ | 2026-06-08 | 2026-06-08 |      |
 | #24   | P2-03    | Sanborn Field & Airport Field Deployment (3+4 Devices — Network & Power Monitoring) | Todo        | High     | 2026-06-12 | 2026-06-30 | #41  |
 
 ### Data Collection & Writing
